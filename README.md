@@ -30,3 +30,6 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 |                                                                                                         | N/A                                   | N/A   | N/A                                                                                                           | N/A                                    | N/A           | N/A           | N/A           | N/A                                | N/A                              | N/A                                  | N/A    | N/A  | N/A | N/A     | N/A                  |
 
 ## How to Contribute
+
+To edit an entry, please edit the README.md file and create a pull request.
+Either use the github UI, copy the text to a text editor or copy the formatted table to a spreadsheet software like Libreoffice Calc, it should automatically turn into the proper format. You can then use [tabletomarkdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) to convert the spreadsheet table into a markdown formatted table.
