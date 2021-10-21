@@ -57,7 +57,12 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 
 
 
+## Index
 
+- :heavy_check_mark: means yes, it is supported
+- :x: means no, it is not supported
+- :heavy_dollar_sign: means the service/feature has a price `p` where `p>0` 
+- :grey_question: means help wanted, original author wasn't sure or couldn't judge the covered topic.
 
 ## How to Contribute
 
