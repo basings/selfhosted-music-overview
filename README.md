@@ -50,3 +50,5 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 ## How to Contribute
 
 tba
+
+## Footnotes
