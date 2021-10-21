@@ -51,4 +51,4 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 
 tba
 
-## Foot:x:tes
+## Footnotes
