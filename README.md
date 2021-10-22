@@ -70,7 +70,7 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 [^github-audinaut]: https://github.com/nvllsvm/Audinaut
 [^fdroid-subsonic]: https://f-droid.org/en/packages/net.sourceforge.subsonic.androidapp/
 
-[ sourceforge-subsonic]: https://sourceforge.net/projects/subsonic/
+[^sourceforge-subsonic]: https://sourceforge.net/projects/subsonic/
 
 [^github-navidrome]: https://github.com/navidrome
 
