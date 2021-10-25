@@ -117,11 +117,14 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 - :grey_question: means help wanted, original author wasn't sure or couldn't judge the covered topic.
 - :white_circle: means the feature doesn't apply to this service and cannot be evaluated.
 
-## Further Readings
+## Links to Licenses
 
-[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- [GPLv2](https://www.gnu.de/documents/gpl-2.0.de.html)
 
-[MIT License](https://mit-license.org/)
+- [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+- [MIT License](https://mit-license.org/)
+- [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
 ## How to Contribute
 
