@@ -108,8 +108,7 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 [^fdroid-funkwhale]: https://f-droid.org/en/packages/audio.funkwhale.ffa/
 
 
-
-## Index
+## Emoji Definitions
 
 - :heavy_check_mark: means yes, it is supported
 - :x: means no, it is not supported
