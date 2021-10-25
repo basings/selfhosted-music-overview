@@ -62,6 +62,12 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 
 [^website-jellyfin]: https://jellyfin.org
 
+
+[^review1]: needs review
+[^logitech-multi]: [Plugin](https://wiki.slimdevices.com/index.php/Multi_Library_plugin.html) 
+[^logitech-comment-playlist]: works best if music library has been analysed by MusicIP beforehand, otherwise limited capability
+[^github-logitech]: https://github.com/Logitech/slimserver
+
 ## Client Overview
 
 |             |   OS    | Gapless Playback |     Album View     |     Songs View     |    Folder View     |    Artist View     |     Genre View     |    Decade View     |     Year View      |  Playlist Support  |  Most Played Song  | Most Played Album  | Recently Played Song | Recently Played Album | Recently Added Song | Recently Added Album | Frequently Played Album |    Offline Mode    |              Download Music               |      Podcasts      |     Scrobbling     |     Scrobbling     |   Similar Songs    |  Artist Top Songs  |    Shuffle Play    |    Random Album    | Favourites / Starred / Bookmark |      5 Stars       |  Search function   | Chromecast Support |  Android Auto   |        mp3         |        opus        |        flac        |     Dark Mode      |     Themeable      |    Open Source     |        free        | Smart Recommendations |   Video Support    |   Internet Radio   | API  |                 f-droid                 |             Source Code             |     License     | Reviewed Version |
