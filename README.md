@@ -147,6 +147,7 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 - :heavy_dollar_sign: means the service/feature has a price `p` where `p>0` 
 - :grey_question: means help wanted, original author wasn't sure or couldn't judge the covered topic.
 - :white_circle: means the feature doesn't apply to this service and cannot be evaluated.
+- an empty cell is missing information. It is not intentionally left blank.
 
 ## Links to Licenses
 
