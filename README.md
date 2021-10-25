@@ -12,7 +12,7 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 |                       |     Scrobbling     |     Jukebox Mode     |         Can Read Tags          |         Can Write Tags         |           API            |            Can Share Music             | Multi-User Support | Multi-Library Support |  Smart Playlists   |  Heart/ Favorites  |   5 Star Rating    |    Replay Gain     |     Transcode      |                  free                  |                Demo                 |              Source Code               |     License     | Reviewed Version |
 | --------------------- | :----------------: | :----------------------------: | :----------------------------: | :----------------------: | :------------------------------------: | :----------------: | :-------------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :------------------------------------: | :---------------------------------: | :------------------------------------: | :-------------: | :--------------: | :--------------: |
 | Airsonic              |                    |                    |                                |                                | subsonic :grey_question: |                                        |                    |                       |                    |                    |                    |                    |                    | :heavy_check_mark: :heavy_dollar_sign: |                                     | :heavy_check_mark: [^github-airsonic]  |      GPLv3      |                  |
-| Ampache               |                    |                    |       :heavy_check_mark:       | :heavy_check_mark: File or DB  | subsonic :grey_question: |                                        | :heavy_check_mark: |                       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |                                        |  :heavy_check_mark: [^ampachedemo]  |                                        |                 |                  |
+| Ampache               |                    |                    |       :heavy_check_mark:       | :heavy_check_mark: File or DB  | subsonic :grey_question: |                                        | :heavy_check_mark: |                       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |                                        |  :heavy_check_mark: [^ampachedemo]  | :heavy_check_mark: [^github-ampache] | aGPLv3 | 5.1.0 |
 | Emby                  |                    |                    |                                |                                |                          |                                        |                    |                       |                    |                    |                    |                    |                    |                                        |                                     |   :heavy_check_mark: [^github-emby]    |      GPLv2      |                  |
 | Funkwhale             |                    |                    |                                |                                |     :grey_question:      |           :heavy_check_mark:           |                    |                       |                    |                    |                    |                    |                    |                                        |                                     | :heavy_check_mark: [^gitlab-funkwhale] | :grey_question: |                  |
 | Jellyfin              | :heavy_check_mark: |  |       :heavy_check_mark:       |       :heavy_check_mark:       | subsonic :grey_question: |           :heavy_check_mark:           | :heavy_check_mark: |  :heavy_check_mark:   |        :x:         | :heavy_check_mark: |        :x:         |        :x:         | :heavy_check_mark: |                                        | :heavy_check_mark: [^jellyfindemo]  |  :heavy_check_mark:[^github-jellyfin]  |      GPLv2      |                  |
@@ -31,8 +31,7 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 
 
 
-
-
+[^github-ampache]: https://github.com/ampache/ampache/
 [^plexdemo]: [Plex Demo](https://app.plex.tv/desktop/#!/)
 [^jellyfindemo]: [Jellyfin Demo](https://demo.jellyfin.org/)
 [^navidromedemo]: [Navidrome Demo](https://www.navidrome.org/demo/)
@@ -119,9 +118,8 @@ selfhosted-music-overview intends to provide an overview of different self-hosta
 ## Links to Licenses
 
 - [GPLv2](https://www.gnu.de/documents/gpl-2.0.de.html)
-
 - [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
+- [aGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)
 - [MIT License](https://mit-license.org/)
 - [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
