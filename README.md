@@ -2,7 +2,14 @@
 
 selfhosted-music-overview intends to provide an overview of different self-hostable music streaming sites.
 
+## Table of Contents
 
+1. [Server Overview](#server-overview)
+2. [Client Overview](#client-overview)
+3. [Emoji Definitions](#emoji-definitions)
+4. [Links to Licenses](#links-to-licenses)
+5. [How to Contribute](#how-to-contribute)
+6. [Footnotes](#footnotes)
 
 
 ## Server Overview
