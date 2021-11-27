@@ -1,6 +1,6 @@
 # selfhosted-music-overview
 
-selfhosted-music-overview intends to provide an overview of different self-hostable music streaming servers, and clients.
+selfhosted-music-overview intends to provide an overview of self-hostable music streaming servers and clients.
 
 ## Table of Contents
 
