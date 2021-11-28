@@ -169,4 +169,7 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 
 tba
 
+- open issue or better a PR
+- matrix-room: #selfhosted-music-overview
+
 ## Footnotes
