@@ -7,8 +7,9 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 1. [Server Overview](#server-overview)
 2. [Client Overview](#client-overview)
 3. [Emoji Definitions](#emoji-definitions)
-4. [How to Contribute](#how-to-contribute)
-5. [Footnotes](#footnotes)
+4. [Column Definitions](column-definitions)
+5. [How to Contribute](#how-to-contribute)
+6. [Footnotes](#footnotes)
 
 
 ## Server Overview
@@ -136,6 +137,10 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 - :grey_question: means help wanted, original author wasn't sure or couldn't judge the covered topic.
 - :white_circle: means the feature doesn't apply to this service and cannot be evaluated.
 - an empty cell is missing information. It is not intentionally left blank.
+
+## Column Definitions
+
+tba
 
 ## How to Contribute (WIP)
 
