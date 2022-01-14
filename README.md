@@ -144,7 +144,7 @@ tba
 
 ## How to Contribute (WIP)
 
-- work in an editor that supports no forced line breaks, otherwise you can't read the raw markdown table. VSCodium, Atom and others are suitable for raw markdown editing.
+- work in an editor that supports no forced line breaks (word wrap), otherwise you can't read the raw markdown table. VSCodium, Atom and others are suitable for raw markdown editing.
 
 - work in an editor that supports some sort of [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) like [Typora](https://typora.io/)  otherwise it is a real mess to fill a markdown table. Typora can clean the final raw markdown table as well.
 
