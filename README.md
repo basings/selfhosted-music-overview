@@ -1,3 +1,5 @@
+[![License: FDL 1.3](https://img.shields.io/badge/License-FDL_v1.3-blue.svg)](https://www.gnu.org/licenses/fdl-1.3)
+
 # selfhosted-music-overview
 
 selfhosted-music-overview intends to provide an overview of self-hostable music streaming servers and clients.
