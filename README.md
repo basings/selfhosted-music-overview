@@ -141,10 +141,6 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 - :white_circle: means the feature doesn't apply to this service and cannot be evaluated.
 - an empty cell is missing information. It is not intentionally left blank.
 
-## Column Definitions
-
-tba
-
 ## How to Contribute (WIP)
 
 - work in an editor that supports no forced line breaks (word wrap), otherwise you can't read the raw markdown table. VSCodium, Atom and others are suitable for raw markdown editing.
