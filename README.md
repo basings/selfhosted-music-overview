@@ -9,7 +9,6 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 1. [Server Overview](#server-overview)
 2. [Client Overview](#client-overview)
 3. [Emoji Definitions](#emoji-definitions)
-4. [Column Definitions](column-definitions)
 5. [How to Contribute](#how-to-contribute)
 6. [Footnotes](#footnotes)
 
