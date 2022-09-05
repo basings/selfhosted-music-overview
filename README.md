@@ -10,6 +10,7 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 2. [Client Overview](#client-overview)
 3. [Emoji Definitions](#emoji-definitions)
 4. [How to Contribute](#how-to-contribute)
+5. [Selfhosted Photos](#selfhosted-photos)
 5. [Footnotes](#footnotes)
 
 ## Server Overview
@@ -148,6 +149,9 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 - open issue or a PR
   
 - matrix-room: #selfhosted-music-overview
-  
+
+## Selfhosted Photos
+
+To get an overview of selfhosted photo libraries please visit [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries). I just found it and thought I should share it since it provides a nive overview and is similar to this project but for photos instead of music. 
 
 ## Footnotes
