@@ -162,6 +162,8 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 
 [Music Assistant](https://github.com/music-assistant/server) is useful in order to connect streaming services with speakers.
 
+[Multi-Scrobbler](https://foxxmd.github.io/multi-scrobbler/) is a docker application that consolidates your listening activity across applications and can scrobble to multiple services.
+
 ## Selfhosted Photos
 
 To get an overview of selfhosted photo libraries please visit [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries). I just found it and thought I should share it since it provides a nive overview and is similar to this project but for photos instead of music.
