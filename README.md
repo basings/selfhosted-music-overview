@@ -173,3 +173,5 @@ selfhosted-music-overview intends to provide an overview of self-hostable music 
 To get an overview of selfhosted photo libraries please visit [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries). I just found it and thought I should share it since it provides a nive overview and is similar to this project but for photos instead of music.
 
 ## Footnotes
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
